@@ -28,12 +28,6 @@ RegisterNumber:  212224230164
 */
 
 
-
-
-
-
-
-
 # Importing necessary libraries
 import pandas as pd
 import numpy as np
@@ -134,7 +128,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/db2214e0-4062-4e88-a034-22e6a0da53a7)
 
 
-![simple linear regression model for predicting the marks scored](sam.png)
 
 
 ## Result:
